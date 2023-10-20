@@ -9,3 +9,5 @@ if (petName == "Martha" && BABBEL == "laber") {
     wahr = true;
     console.log(wahr);
 }
+
+console.log("hallo karatae")
