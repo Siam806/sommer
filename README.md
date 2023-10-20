@@ -29,4 +29,6 @@ console.log("hallo karatae")
 Link zur repo: [Hier klicken](https://github.com/Siam806/sommer)
 ![Beispielbild](https://github.com/Siam806/sommer/blob/master/Screenshot%202023-10-20%20022902.png?raw=true)
 
-
+> Das beste Testprogramm
+> 10/10
+> Baba Hase
